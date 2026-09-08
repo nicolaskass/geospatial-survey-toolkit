@@ -140,5 +140,8 @@ historical order. I build operational and analytical systems for small businesse
 
 Client identifiers, site data and deployment hostnames are omitted throughout.
 
+**Licence:** the writing in this repository is published under
+[CC BY 4.0](LICENSE) — reuse it, quote it, build on it, with attribution.
+
 *Every figure above is a real measurement taken from the project — lines counted from the
 source tree, alert types and applications counted from the modules.*
